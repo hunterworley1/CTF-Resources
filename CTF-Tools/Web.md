@@ -9,3 +9,5 @@ https://www.wireshark.org/
 Directory brute-forcing (https://github.com/OJ/gobuster)
 ## JWT.io
 jwt manipulation (https://jwt.io/)
+## Wappalyzer
+Available as a Firefox extension
