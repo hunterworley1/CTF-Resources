@@ -11,5 +11,7 @@ Identifies and extracts files (https://gchq.github.io/CyberChef/)
 CLI Hexeditor (https://www.kali.org/tools/ncurses-hexedit/)
 ## Stegseek
 Steganography tool (https://github.com/RickdeJager/stegseek)
+## exiftool
+extracts metadata from pictures (included on kali)
 ## Other Linux CLI tools
-binwalk, xxd
+binwalk, xxd, hexdump
